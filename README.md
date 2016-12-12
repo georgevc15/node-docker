@@ -1,5 +1,5 @@
 ## Synopsis
-Build a node image with a simple node express server that can be runned inside a container 
+Build a node image with a simple node express server that can be run inside a container 
 
 
 ## Installation
